@@ -1,0 +1,46 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#aboutUs-page {
+  background-image: url("/GlowsAboutus.png"), url("/OrbitAboutUs.png"),
+    url("/BGImageDefault1.png");
+  background-position: 0px 500px, 0px 280px, bottom right;
+  background-repeat: no-repeat, no-repeat, repeat;
+  background-size: cover, contain, contain;
+  background-blend-mode: lighten, color-dodge, lighten;
+}
+@media (max-width: 800px) {
+  #aboutUs-page {
+    background-size: contain, contain, contain;
+  }
+}
+
+.ql-align-center {
+  display: grid;
+  grid-template-rows: auto auto auto;
+  gap: 1rem;
+  justify-content: center;
+}
+
+@media screen and (min-width: 500px) {
+  .ql-align-center {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 1rem;
+    justify-content: center;
+  }
+}

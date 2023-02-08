@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/birthday/customize.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/birthday/happybirthday/customize.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/birthday/happybirthday/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/birthday/happybirthday/script/main.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/birthday/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/birthday/script/main.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/birthday/styles.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../aoh-2022/components/Organisms/CaptureYourNSMoments/About.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/__tests__/pages/index.test.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/components/Atoms/BackButton.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/components/Atoms/Bounce.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/components/Atoms/CategoryTag.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/components/Atoms/Labs/blog-list.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/components/Atoms/NavigationButton.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/components/Molecules/ContactCard.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/components/Molecules/MenuText.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/components/Organisms/HomeSection.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/components/Organisms/MenuSection.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/components/Organisms/Menus/index.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/components/Templates/Layout/index.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/constants/dummyDataLabs.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/constants/menu.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/hooks/getCareers.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/hooks/getListRndPost.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/next.config.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/package.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pages/careers/index.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pages/contact-us.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pages/home.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pages/index.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pages/join-us/index.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pages/labs.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pages/labs/[id].tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pages/labs/index.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pages/research-and-development/[slug].tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pages/research-and-development/index.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pages/zodiac-labs.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pages/zodiac-labs/[id].tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pages/zodiac-labs/[slug].tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pages/zodiac-labs/index.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/styles/globals.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/types/homepage.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/types/labs.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../women-development-2022/components/Atoms/ShapersOfSuccess/YearWrapper.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../women-development-2022/components/Molecules/ShapersOfSuccess/Sos1Desktop.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../women-development-2022/components/Molecules/ShapersOfSuccess/Sos2021Desktop.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../women-development-2022/components/Molecules/ShapersOfSuccess/Sos2022Desktop.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../women-development-2022/components/Molecules/ShapersOfSuccess/Sos2Desktop.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../women-development-2022/components/Molecules/ShapersOfSuccess/Sos3Desktop.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../women-development-2022/components/Molecules/ShapersOfSuccess/Sos4Desktop.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../women-development-2022/components/Molecules/ShapersOfSuccess/Sos5Desktop.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../women-development-2022/components/Molecules/ShapersOfSuccess/SosPollingDesktop.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../women-development-2022/components/Organisms/ShapersOfSuccessDesktop.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../women-development-2022/components/Templates/Layout.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
